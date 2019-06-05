@@ -15,4 +15,5 @@
 ### Statistics 
 
 [Statistical Thinking of the 21st Century: Russell Podrack](http://statsthinking21.org/index.html)
+[Exploratory Data Analysis with R: Roger Peng](https://bookdown.org/rdpeng/exdata/)
 
