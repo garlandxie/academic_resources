@@ -1,8 +1,12 @@
 ## A central repository of FREE useful R guides (mostly for me!)
 
-### Basics of R 
+### Basics of R Programming
 
 [The Tidyverse Coding Style](https://style.tidyverse.org/)
+
+### Advanced R Programming 
+
+[Advanced R: Hadley Wickham](https://adv-r.hadley.nz/)
 
 ### Data Visualization 
 
