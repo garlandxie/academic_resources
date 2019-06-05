@@ -2,7 +2,7 @@
 
 ### Basics of R 
 
-[Tidyverse: Coding Style](https://style.tidyverse.org/)
+[The Tidyverse Coding Style](https://style.tidyverse.org/)
 
 ### Data Visualization 
 
