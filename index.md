@@ -2,7 +2,7 @@
 
 ### Basics of R Programming
 
-[The Tidyverse Coding Style](https://style.tidyverse.org/)
+[The Tidyverse Coding Style: Hadley Wickham](https://style.tidyverse.org/)
 
 ### Advanced R Programming 
 
