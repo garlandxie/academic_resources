@@ -2,5 +2,5 @@
 
 ### Basics of R 
 
-[Tidyverse: Coding Style) (https://style.tidyverse.org/)
+[Tidyverse: Coding Style] (https://style.tidyverse.org/)
 
