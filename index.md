@@ -8,7 +8,7 @@
 
 ### Advanced R Programming 
 
-[Advanced R: Hadley Wickham](https://adv-r.hadley.nz
+[Advanced R: Hadley Wickham](https://adv-r.hadley.nz)
 
 [Efficient R Programming: Collin Gilepsie, Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
