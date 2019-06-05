@@ -2,12 +2,14 @@
 
 ### Basics of R Programming
 
-[The Tidyverse Coding Style: Hadley Wickham](https://style.tidyverse.org
+[The Tidyverse Coding Style: Hadley Wickham](https://style.tidyverse.
+
 [R for Data Science: Garrett Goulemand, Hadley Wickham](https://r4ds.had.co.nz/)
 
 ### Advanced R Programming 
 
-[Advanced R: Hadley Wickham](https://adv-r.hadley.nz/)
+[Advanced R: Hadley Wickham](https://adv-r.hadley.nz
+
 [Efficient R Programming: Collin Gilepsie, Robin Lovelace](https://bookdown.org/csgillespie/efficientR/)
 
 ### Data Visualization 
