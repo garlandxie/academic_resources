@@ -4,3 +4,7 @@
 
 [Tidyverse: Coding Style](https://style.tidyverse.org/)
 
+### Data Visualization 
+
+[Fundamentals of Data Visualization: Claus O. Wilke](https://serialmentor.com/dataviz/)
+
