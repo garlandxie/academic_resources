@@ -2,7 +2,7 @@
 
 ### Basics of R Programming
 
-[The Tidyverse Coding Style: Hadley Wickham](https://style.tidyverse.
+[The Tidyverse Coding Style: Hadley Wickham](https://style.tidyverse)
 
 [R for Data Science: Garrett Goulemand, Hadley Wickham](https://r4ds.had.co.nz/)
 
