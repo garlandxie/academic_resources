@@ -15,6 +15,7 @@
 ### Data Visualization 
 
 [Fundamentals of Data Visualization: Claus O. Wilke](https://serialmentor.com/dataviz/)
+
 [Data Visualizaton - A Practical Introduction: Kieran Healy](http://socviz.co/)
 
 ### Statistics 
