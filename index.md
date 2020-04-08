@@ -22,5 +22,5 @@
 
 [Exploratory Data Analysis with R: Roger Peng](https://bookdown.org/rdpeng/exdata/)
 
-[Geocomputation with R: Lovace et al.](https://geocompr.robinlovelace.net/adv-map.html)
+[Geocomputation with R: Lovelace et al.](https://geocompr.robinlovelace.net/
 
