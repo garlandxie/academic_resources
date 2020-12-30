@@ -1,18 +1,11 @@
 A list of relevant (and good) journals for an applied urban ecologist.
 Society journals are preferred over other organizations. 
 
-## British Society of America
-- Journal of Applied Ecology
-- Journal of Animal Ecology
-- Journal of Ecology
-- Ecological Solutions and Evidence
-
-## Ecological Society of America
-- Ecological Applications
-
-## Botanical Society of America
-- American Journal of Botany
-
-## Elsevier
-- Science of the Total Environment
-
+| Organization | Journal | 
+| ------------- | ------------- |
+| BES | Journal of Applied Ecology | 
+| BES | Journal of Animal Ecology |
+| BES | Journal of Ecology |
+| BES | Ecological Soluations and Evidence |
+| ESA | Ecological Applications |
+| Elsevier | Science of the Total Environment |
